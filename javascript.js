@@ -3,7 +3,7 @@
 	var barra_css = document.createElement('link');
 	barra_css.setAttribute('rel', 'stylesheet');
 	barra_css.setAttribute('type', 'text/css');
-	barra_css.setAttribute('href', 'barra.css');
+	barra_css.setAttribute('href', 'http://static.laneros.net/barra2/barra.css');
 	etiqueta_head.appendChild(barra_css);
 	var etiqueta_body = document.getElementsByTagName('body')[0];
 	var barra_html = '<div id="barra-nodal"> \

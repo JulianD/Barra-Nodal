@@ -17,7 +17,7 @@
 </div> \
 <ul class="social-nodal"> \
 <li><a href="http://www.facebook.com/' + barra_nodal_social_facebook + '" target="_blank"><i class="fa fa-facebook-square"></i><span>Me gusta</span></a></li> \
-<li><a href="http://www.twitter.com/' + barra_nodal_social_twitter + '" target="_blank"><i class="fa fa-twitter-square"></i><span>S&aacute;guenos</span></a></li> \
+<li><a href="http://www.twitter.com/' + barra_nodal_social_twitter + '" target="_blank"><i class="fa fa-twitter-square"></i><span>S&iacute;guenos</span></a></li> \
 <li><a href="' + barra_nodal_social_contacto + '" target="_blank"><i class="fa fa-envelope-o"></i><span>Contacto</span></a></li> \
 </ul> \
 <ul class="links-nodal"> \

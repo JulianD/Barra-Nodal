@@ -194,10 +194,22 @@ body
 	}
 }
 
-@media (max-width: 700px) {
+@media (max-width: 750px) {
 	#barra-nodal > ul li a
 	{
 		font-size: 12px;
 		padding: 10px 5px;
+	}
+}
+
+@media (max-width: 520px) {
+	#barra-nodal > ul.links-nodal
+	{
+		display: none;
+	}
+
+	#barra-nodal .social-nodal span
+	{
+		display: inline-block;
 	}
 }

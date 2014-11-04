@@ -24,8 +24,7 @@
 <li><a href="http://www.laneros.com">LANEROS</a></li> \
 <li><a href="http://www.lapelotona.com">LAPELOTONA</a></li> \
 <li><a href="http://www.turket.co">TURKET</a></li> \
-<li><a href="http://www.hwcol.com">HWCOL</a></li> \
-<li><a href="http://www.gadgeteros.co">GADGETEROS</a></li> \
+<li><a href="http://www.disfruta.la">Disfruta.la</a></li> \
 </ul> \
 </div>';
 	etiqueta_body.insertAdjacentHTML('beforeend', barra_html);

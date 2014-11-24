@@ -21,10 +21,10 @@
 <li><a href="' + barra_nodal_social_contacto + '" target="_blank"><i class="fa fa-envelope-o"></i><span>Contacto</span></a></li> \
 </ul> \
 <ul class="links-nodal"> \
-<li><a href="http://www.laneros.com">LANEROS</a></li> \
-<li><a href="http://www.lapelotona.com">LAPELOTONA</a></li> \
-<li><a href="http://www.turket.co">TURKET</a></li> \
 <li><a href="http://www.disfruta.la">Disfruta.la</a></li> \
+<li><a href="http://www.lapelotona.com">LAPELOTONA</a></li> \
+<li><a href="http://www.laneros.com">LANEROS</a></li> \
+<li><a href="http://www.turket.co">TURKET</a></li> \
 </ul> \
 </div>';
 	etiqueta_body.insertAdjacentHTML('beforeend', barra_html);
